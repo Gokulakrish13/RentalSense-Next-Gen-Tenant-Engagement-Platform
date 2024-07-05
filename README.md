@@ -1,4 +1,5 @@
 **RentalSense: Next-Gen Tenant Engagement Platform**
+</br>
 **Technologies:** HTML, CSS, Java, MySQL
 1. Designed and implemented a Tenant Management System in Java for
 proprietors to efficiently manage flat bookings, tenant details, and
